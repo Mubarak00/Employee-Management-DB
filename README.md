@@ -32,6 +32,5 @@ The Employee Management System is a SQL-based database designed to store and man
        - `create_view_for_high_performers-.sql`
        - `trigger_to_log_salary_updates.sql`
        - `Stored Procedure for department_wise_salary_summary.sql`
-4. 
 
 
