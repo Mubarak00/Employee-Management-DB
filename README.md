@@ -10,4 +10,13 @@ The Employee Management System is a SQL-based database designed to store and man
   - Triggers for automated logging.
   - Stored procedures for reusable business logic.
 
+## How to Run
+1. Clone this repository.
+2. Use any SQL database system (e.g., MySQL, PostgreSQL).
+3. Run the scripts in the following order:
+   - create a new schema `employment_management_db.sql`.
+   - `database_schema.sql` to create tables.
+   - `data_population.sql` to populate tables with sample data.
+   - data_manipulation_queries folder for executing sample queries.
+
 
