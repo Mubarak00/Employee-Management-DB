@@ -17,6 +17,21 @@ The Employee Management System is a SQL-based database designed to store and man
    - create a new schema `employment_management_db.sql`.
    - `database_schema.sql` to create tables.
    - `data_population.sql` to populate tables with sample data.
-   - data_manipulation_queries folder for executing sample queries.
+   - run the following sample queries;
+       - `insert_new_employee.sql`
+       - `update_employee_salary.sql`
+       - `delete_an_employee_record.sql`
+       - `average_salary_by_department.sql`
+       - `count_employees_in_each_department.sql`
+       - `alter_employees_table.sql`
+       - `create_a_copy_of_employees_table.sql`
+       - `drop_salaries_history_table.sql`
+       - `inner_join_between_employees_and_departments.sql`
+       - `left_join_between_employees_and_performance.sql`
+       - `event_to_increase_salaries_yearly.sql`
+       - `create_view_for_high_performers-.sql`
+       - `trigger_to_log_salary_updates.sql`
+       - `Stored Procedure for department_wise_salary_summary.sql`
+4. 
 
 
